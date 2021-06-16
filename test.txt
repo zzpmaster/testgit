@@ -6,3 +6,4 @@ add new line master
 add 1
 add 2 to master
 add new line
+add 3 to master
