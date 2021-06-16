@@ -5,3 +5,4 @@ add by new bugfix
 add new line master
 add 1
 add 2 to master
+add new line
